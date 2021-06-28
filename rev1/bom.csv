@@ -1,0 +1,9 @@
+"Reference(s)",Comment,Footprint,"JLC part"
+"U1",ATmega328-P,Package_DIP:DIP-28_W7.62mm,
+"BZ1",Buzzer,Buzzer_Beeper:Buzzer_12x9.5RM7.6,
+"C1",1000uF,Capacitor_SMD:CP_Elec_10x10,"C249474"
+"J1",Conn_01x03_Male,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,
+"R1",10k,Resistor_SMD:R_0603_1608Metric,"C25804"
+"R2",470,Resistor_SMD:R_0603_1608Metric,"C23179"
+"R3",220,Resistor_SMD:R_0603_1608Metric,"C22962"
+"SW1",SW_SPST,Button_Switch_SMD:SW_SPST_Omron_B3FS-105xP,"C127509"
